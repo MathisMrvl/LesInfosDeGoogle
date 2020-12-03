@@ -1,0 +1,55 @@
+h1
+{
+	text-align: center;
+	background-color: white;
+  	color: black;
+}
+
+h2
+{
+	font-family: verdana;
+	color: purple;
+        font-size: 25px;
+}
+
+#Cible_1
+{
+        font_family: verdana;
+	color: white;
+}       
+
+p
+{
+        font_family: verdana;
+	color: white;
+        font-weight: bold;
+        margin: 10px 50px 20px;
+        font-size: 32px;
+}     
+
+table
+{
+        font_family: verdana;
+	color: white;
+        border-collapse: collapse;
+        font-size: 35px;
+}
+td, th
+{
+        border: 1px solid white;
+	color: grey;
+}
+
+ol
+{
+        font_family: verdana;
+	color: grey;
+        font-size: 35px;
+}
+
+ 
+body
+{
+	background-image:url("Google-Feature-Image-Dark.png");
+        background-size: cover;
+}

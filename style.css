@@ -1,0 +1,81 @@
+h1
+{
+	text-align: center;
+	background-color: grey;
+  	color: purple;
+}
+
+h2
+{
+	font-family: verdana;
+	color: purple;
+        font-size: 25px;
+}
+
+#Cible_1
+{
+        font_family: verdana;
+	color: red;
+}       
+
+p
+{
+        font_family: verdana;
+	color: red;
+        font-weight: bold;
+        margin: 10px 50px 20px;
+        font-size: 22px;
+}     
+
+a
+{
+        font_family: verdana;
+	color: purple;
+        margin: 5% 0;
+}
+
+table
+{
+        font_family: verdana;
+	color: grey;
+        border-collapse: collapse;
+        font-size: 21px;
+}
+td, th
+{
+        border: 1px solid white;
+}
+
+ol
+{
+        font_family: verdana;
+	color: grey;
+        font-size: 21px;
+}
+
+ 
+button
+{
+	color: purple;
+        margin: 10px 50px 20px;
+}
+
+body
+{
+	background-image:url("noir.jpg");
+        background-size: cover;
+}
+
+.blanc {
+	background-image:url("blanc.jpg");
+        background-size: cover;
+}
+.noir {
+	background-image:url("noir.jpg");
+        background-size: cover;
+}
+
+ 
+
+
+

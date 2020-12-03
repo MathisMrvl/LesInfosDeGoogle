@@ -1,0 +1,34 @@
+body
+{
+	background-image:url("1.jpg");
+        background-size: cover;
+}
+
+label
+{
+        font_family: verdana;
+	font-weight: bold;
+        color: grey;
+        font-size: 38px;
+}
+
+p
+{
+        font_family: verdana;
+	color: purple;
+        font-weight: bold;
+        margin: 10px 50px 20px;
+        font-size: 38px;
+}     
+
+h1
+{
+	text-align: center;
+	background-color: grey;
+  	color: white;
+}
+
+input
+{
+        font-size: 38px;
+}
