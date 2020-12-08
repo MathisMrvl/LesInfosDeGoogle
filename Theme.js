@@ -6,3 +6,4 @@ function foncNoir() {
 	document.querySelector("#themeChange").classList.remove("blanc");
 	document.querySelector("#themeChange").classList.add("noir");
 }
+
